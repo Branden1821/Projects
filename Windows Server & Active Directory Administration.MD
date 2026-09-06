@@ -11,3 +11,5 @@ The project focused on creating a functional Windows-based domain environment an
 - Remote Desktop Protocol (RDP)
 - Windows Command Prompt
 - TCP/IP networking
+## 1. Windows Server Environment
+The project began with the configuration of a Windows Server environment. Server Manager was used as the primary administration interface for managing the server and its installed roles.
