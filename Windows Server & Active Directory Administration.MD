@@ -13,3 +13,10 @@ The project focused on creating a functional Windows-based domain environment an
 - TCP/IP networking
 ## 1. Windows Server Environment
 The project began with the configuration of a Windows Server environment. Server Manager was used as the primary administration interface for managing the server and its installed roles.
+
+The server environment included:
+
+- Active Directory Domain Services
+- DNS
+- File and Storage Services
+- Local Server management
