@@ -21,3 +21,12 @@ The server environment included:
 - File and Storage Services
 - Local Server management
  
+server-manager.png
+
+Skills Demonstrated:
+
+Windows Server administration
+Server role management
+Server Manager
+Infrastructure configuration
+Microsoft server technologies
