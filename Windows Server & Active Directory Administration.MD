@@ -31,3 +31,18 @@ server-manager.png
 * Server Manager
 * Infrastructure configuration
 * Microsoft server technologies
+
+## 2. Active Directory Structure 
+After establishing the server environment, I configured Active Directory to organize and manage users within the domain.
+
+Using Active Directory Users and Computers, I created organizational units to provide structure within the domain.
+
+The environment included organizational units such as:
+
+* Naruto
+    * Hidden Leaf
+    * Hidden Mist
+
+User accounts were then created and organized within the appropriate organizational units.
+
+This portion of the project demonstrated how Active Directory can be used to create a centralized structure for managing users and resources within a Windows domain.
