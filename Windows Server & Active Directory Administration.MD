@@ -46,3 +46,59 @@ The environment included organizational units such as:
 User accounts were then created and organized within the appropriate organizational units.
 
 This portion of the project demonstrated how Active Directory can be used to create a centralized structure for managing users and resources within a Windows domain.
+
+Skills Demonstrated:
+
+* Active Directory
+* Organizational Unit creation
+* User management
+* Domain organization
+* Active Directory Users and Computers
+
+## 3. User Account Configuration
+
+After creating the user accounts, I configured and reviewed individual account properties through Active Directory.
+
+For example, the Shikamaru N account was configured with a domain logon name and specific account settings.
+
+The account properties provided access to settings involving:
+
+* User logon name
+* Pre-Windows 2000 logon name
+* Password requirements
+* Account expiration
+* Account status
+* Logon restrictions
+* Other account options
+
+This portion of the project provided hands-on experience with managing individual domain accounts and understanding how administrators control user access.
+
+Skills Demonstrated:
+
+* User account administration
+* Account security
+* Password configuration
+* Domain account management
+* Active Directory administration
+
+## 4. Remote Desktop Connection
+
+Once the server and user accounts were configured, I tested remote access using Remote Desktop Connection.
+
+The remote computer was configured using the server’s IP address:
+
+172.16.0.5
+
+The connection was established using the domain account:
+
+SERVER\shikamaru
+
+This allowed me to remotely access and administer the Windows environment using the configured user account.
+
+Skills Demonstrated:
+
+* Remote Desktop Protocol
+* Remote server administration
+* IP addressing
+* Domain authentication
+* Windows networking
