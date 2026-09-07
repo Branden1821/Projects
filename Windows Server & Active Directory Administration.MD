@@ -21,12 +21,13 @@ The server environment included:
 - File and Storage Services
 - Local Server management
  
+The Server Manager dashboard provided a centralized view of the server’s roles and services and was used to monitor the overall environment.
 server-manager.png
 
-Skills Demonstrated:
+###Skills Demonstrated:
 
-Windows Server administration
-Server role management
-Server Manager
-Infrastructure configuration
-Microsoft server technologies
+* Windows Server administration
+* Server role management
+* Server Manager
+* Infrastructure configuration
+* Microsoft server technologies
