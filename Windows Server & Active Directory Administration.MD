@@ -23,7 +23,7 @@ The server environment included:
  
 The Server Manager dashboard provided a centralized view of the server’s roles and services and was used to monitor the overall environment.
 
-![Server Manager Dashboard](https://github.com/Branden1821/Projects/raw/main/server-manager.png)
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/45e86e00-e3c9-4b38-ae04-7633597939a2" />
 
 ### Skills Demonstrated:
 
