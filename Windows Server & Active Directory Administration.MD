@@ -22,7 +22,8 @@ The server environment included:
 - Local Server management
  
 The Server Manager dashboard provided a centralized view of the server’s roles and services and was used to monitor the overall environment.
-server-manager.png
+
+![Server Manager Dashboard](https://github.com/Branden1821/Projects/raw/main/server-manager.png)
 
 ### Skills Demonstrated:
 
