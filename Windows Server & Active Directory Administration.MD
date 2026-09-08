@@ -115,3 +115,40 @@ server\shikamaru
 This confirmed that the remote session was successfully operating under the intended domain account.
 
 This verification step demonstrated a basic but important troubleshooting technique that can be used by system administrators to confirm user identity and investigate authentication or permission issues.
+
+Skills Demonstrated:
+
+* Command-line administration
+* Authentication verification
+* User identity troubleshooting
+* Domain administration
+* Windows system administration
+
+## Project Outcome
+
+This project provided hands-on experience building and administering a Windows Server environment from initial server configuration through user authentication and remote administration.
+
+By completing the project, I gained practical experience with Windows Server, Active Directory, DNS, organizational units, user account management, Remote Desktop, and command-line troubleshooting.
+
+The project also demonstrated how these technologies work together within a domain environment. Rather than configuring each technology independently, I was able to build a connected environment where users could be created in Active Directory, authenticated through the domain, and used to access the server remotely.
+
+## Skills & Technologies
+### Systems Administration
+* Windows Server
+* Server Manager
+* Active Directory
+* User administration
+* Organizational Units
+* Domain administration
+### Networking
+* TCP/IP
+* IP addressing
+* DNS
+* Remote Desktop
+* Domain authentication
+### Troubleshooting & Administration
+* Command Prompt
+* whoami
+* Account verification
+* Remote access testing
+* User account troubleshooting
