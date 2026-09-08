@@ -102,3 +102,16 @@ Skills Demonstrated:
 * IP addressing
 * Domain authentication
 * Windows networking
+
+## 5. Authentication Verification
+
+The final portion of the project involved verifying that the correct user account was authenticated after establishing the remote connection.
+
+I opened Command Prompt and used the whoami command to identify the account currently being used.
+
+The system returned:
+server\shikamaru
+
+This confirmed that the remote session was successfully operating under the intended domain account.
+
+This verification step demonstrated a basic but important troubleshooting technique that can be used by system administrators to confirm user identity and investigate authentication or permission issues.
