@@ -48,6 +48,8 @@ User accounts were then created and organized within the appropriate organizatio
 
 This portion of the project demonstrated how Active Directory can be used to create a centralized structure for managing users and resources within a Windows domain.
 
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/97ba5d1d-7546-4aab-a541-90bd27990196" />
+
 Skills Demonstrated:
 
 * Active Directory
@@ -74,6 +76,8 @@ The account properties provided access to settings involving:
 
 This portion of the project provided hands-on experience with managing individual domain accounts and understanding how administrators control user access.
 
+
+
 Skills Demonstrated:
 
 * User account administration
@@ -96,6 +100,8 @@ SERVER\shikamaru
 
 This allowed me to remotely access and administer the Windows environment using the configured user account.
 
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/5a0c8f2b-193c-4cf9-8bb7-fe68b592e87d" />
+
 Skills Demonstrated:
 
 * Remote Desktop Protocol
@@ -116,6 +122,8 @@ server\shikamaru
 This confirmed that the remote session was successfully operating under the intended domain account.
 
 This verification step demonstrated a basic but important troubleshooting technique that can be used by system administrators to confirm user identity and investigate authentication or permission issues.
+
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/5aa69383-36d7-4351-81f1-6e6dcf75489e" />
 
 Skills Demonstrated:
 
